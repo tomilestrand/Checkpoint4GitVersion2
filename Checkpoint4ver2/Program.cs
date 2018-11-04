@@ -12,6 +12,7 @@ namespace Checkpoint4ver2
             Console.WriteLine("Maximum Jeopardy");
             Console.WriteLine("Quadruple Retribution");
             Console.WriteLine("Reflex Victory");
+            Console.WriteLine("Sudden Retaliation");
             Console.WriteLine("Copyright < ditt namn > 2018 :)");
         }
     }
